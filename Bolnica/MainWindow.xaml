@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:Bolnica"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="0,0,173,115">
         <DataGrid Name="dg"/>
+<Button x:Name="btn" Content="btn"/>
 
     </Grid>
 </Window>
