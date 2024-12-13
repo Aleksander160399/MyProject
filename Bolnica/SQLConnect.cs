@@ -21,6 +21,9 @@ namespace Bolnica
             public DateTime Birthday { get; set; }
             public string Polis {  get; set; }
         }
+        /// <summary>
+        /// Данные о приеме
+        /// </summary>
         public class Priem
         {
             public int Id { get; set; }
